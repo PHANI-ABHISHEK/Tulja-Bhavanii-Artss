@@ -20,7 +20,7 @@ body{
     font-family:'Poppins',sans-serif;
     color:#333;
     background:
-    linear-gradient(rgba(255,248,240,.95),rgba(255,248,240,.95)),
+    linear-gradient(rgba(255,248,240,.70),rgba(255,248,240,.95)),
     url("../images/background.png");
     background-size:cover;
     background-position:center;
